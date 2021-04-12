@@ -1,6 +1,6 @@
-# SwiftUI 2.0 Cheat Sheet
+# SwiftUI GiSheet - The Smart - Cheatsheet to everything on SwiftUI
 
-![SwiftUI](./swift-ui-logo.png)
+![SwiftUI CHEATSHEET TUTORIAL](./swift-ui-logo.png)
 
 
 ### Table of Contents

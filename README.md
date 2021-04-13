@@ -103,10 +103,12 @@ To add style
 ``` swift
 Text("Hello World")
     .font(.largeTitle)
-    .foregroundColor(Color.green)
-    .lineSpacing(50)
-    .lineLimit(nil)
-    .padding()
+    .fontWeight(.heavy)
+    .foregroundColor(Color.red)
+    .multilineTextAlignment(.leading)
+    .lineLimit(1)
+    .padding(.bottom)
+    .frame(width: 400.0, height: 200.0)
 ```
 
 <details><summary>Screenshot</summary>

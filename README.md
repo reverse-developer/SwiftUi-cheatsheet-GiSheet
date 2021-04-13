@@ -4,8 +4,6 @@
 
 
 ### Table of Contents
-- [SwiftUI GiSheet - The Smart - Cheatsheet to everything on SwiftUI](#SwiftUI GiSheet - The Smart - Cheatsheet to everything on SwiftUI)
-    - [Table of Contents](#table-of-contents)
 - [Resource](#resource)
 - [UIKit equivalent in SwiftUI](#uikit-equivalent-in-swiftui)
 - [View](#view)

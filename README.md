@@ -192,6 +192,12 @@ Image("hello_world") //image name is hello_world
 To use system icon
 ``` swift
 Image(systemName: "cloud.heavyrain.fill")
+            .resizable()
+            .aspectRatio(contentMode: .fit)
+            .padding(.bottom)
+            .clipShape(Circle())
+            .overlay(Circle().stroke(Color.gray, lineWidth: 4))
+            .shadow(radius: 7)
 ```
 
 <details><summary>Screenshot</summary>

@@ -1,8 +1,7 @@
 # SwiftUI GiSheet - The Smart - Cheatsheet to everything on SwiftUI
-
+<img src="https://img.shields.io/badge/swiftui-cheat--sheet-green" alt="swiftui" />
 ![SwiftUI CHEATSHEET TUTORIAL](./swift-ui-logo.png)
 
-https://img.shields.io/badge/swiftui-cheat--sheet-green
 
 ### Table of Contents
 - [Resource](#resource)

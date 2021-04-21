@@ -1066,4 +1066,4 @@ struct MapView_Preview: PreviewProvider {
 }
 
 ```
-[![Forkers repo roster for @SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://reporoster.com/forks/SimpleBoilerplates/SwiftUI-Cheat-Sheet)](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet/network/members)
+[![Stargazers repo roster for @giridharan-dev/SwiftUi-GiSheet](https://reporoster.com/stars/giridharan-dev/SwiftUi-GiSheet)](https://github.com/giridharan-dev/SwiftUi-GiSheet/stargazers) Thank you!!

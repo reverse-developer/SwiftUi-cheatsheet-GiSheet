@@ -1064,4 +1064,6 @@ struct MapView_Preview: PreviewProvider {
         MapView()
     }
 }
+
+[![Stargazers repo roster for @SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://reporoster.com/stars/SimpleBoilerplates/SwiftUI-Cheat-Sheet)](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet/stargazers)
 ```

@@ -2,6 +2,7 @@
 
 ![SwiftUI CHEATSHEET TUTORIAL](./swift-ui-logo.png)
 
+https://img.shields.io/badge/swiftui-cheat--sheet-green
 
 ### Table of Contents
 - [Resource](#resource)

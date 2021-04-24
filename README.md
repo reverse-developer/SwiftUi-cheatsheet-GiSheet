@@ -1067,4 +1067,6 @@ struct MapView_Preview: PreviewProvider {
 }
 
 ```
-[![Stargazers repo roster for @giridharan-dev/SwiftUi-GiSheet](https://reporoster.com/stars/giridharan-dev/SwiftUi-GiSheet)](https://github.com/giridharan-dev/SwiftUi-GiSheet/stargazers) Thank you!!
+[![Stargazers repo roster for @giridharan-dev/SwiftUi-GiSheet](https://reporoster.com/stars/giridharan-dev/SwiftUi-GiSheet)](https://github.com/giridharan-dev/SwiftUi-GiSheet/stargazers) 
+
+Thank you for all the people who starred this repo!!
